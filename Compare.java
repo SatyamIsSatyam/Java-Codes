@@ -1,3 +1,10 @@
+// Write a program in Java with class Rectangle with the data fields width, length, area and color.
+// The length, width and area are of double type and color is of string type.
+// The methods are set_length() , set_width() , set_color(), and find_area().
+//  Create two object ofRectangle and compare their area and color.
+// If area and color same for the objects then display “Matching Rectangles” otherwise display “Non Matching Rectangle”.
+
+
 class Rectangle{
 	double width;
 	double length;
