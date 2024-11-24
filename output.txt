@@ -1,0 +1,3 @@
+Red=95
+Green=25
+Blue=16
